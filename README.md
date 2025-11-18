@@ -18,17 +18,17 @@
 | Branch | Purpose |
 |--------|---------|
 | **main** | Shows this README + project overview |
-| **master** | Contains ALL assignments & code (switch here!) |
+| **master** | Contains ALL assignments & code |
 
 ---
 
 ## 🧠 What’s Inside
 
-- Python fundamentals  
-- Logic-building exercises  
-- Real assignments  
-- Mini projects and experiments  
-- Practice scripts  
+- Python fundamentals  (no)
+- Logic-building exercises   (no)
+- Real assignments  (yes)
+- Mini projects and experiments  (in the future)
+- Practice scripts  (Nope)
 
 ---
 
