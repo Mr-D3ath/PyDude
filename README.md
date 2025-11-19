@@ -31,11 +31,3 @@
 - Practice scripts  (Nope)
 
 ---
-
-## 🚀 How to Access the Assignments 
-
-```bash
-git clone <your-repo-url>
-git checkout master
-
----
